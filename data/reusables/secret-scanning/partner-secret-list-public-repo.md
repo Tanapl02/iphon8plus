@@ -55,7 +55,6 @@ Mailchimp | Mailchimp API Key
 Mailchimp | Mandrill API Key
 Mailgun | Mailgun API Key
 MessageBird | MessageBird API Key
-Meta | Facebook Access Token
 npm | npm Access Token
 NuGet | NuGet API Key
 OpenAI | OpenAI API Key
